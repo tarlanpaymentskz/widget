@@ -1,24 +1,22 @@
 {
-  "name": "@tarlan_payments/widget",
-  "version": "7.0.0-beta.0",
-  "description": "Payment form widget for merchants",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "name": "@tarlanpayments/widget",
+  "version": "1.0.0",
+  "description": "Payment form widget for merchants.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
-    "version": "git add -A .",
-    "postversion": "git push origin master"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tarlanpaymentskz/widget.git"
   },
-  "files": [
-    "lib/**/*"
-  ],
-  "author": "Tarlan Payments",
+  "author": "",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/tarlanpaymentskz/widget/issues"
   },
-  "homepage": "https://github.com/tarlanpaymentskz/widget#readme"
+  "homepage": "https://github.com/tarlanpaymentskz/widget.git#readme"
 }
