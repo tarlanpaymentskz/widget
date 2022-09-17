@@ -1,6 +1,6 @@
 {
   "name": "@tarlanpayments/widget",
-  "version": "7.0.0",
+  "version": "3.3.0",
   "description": "Payment form widget for merchants.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
