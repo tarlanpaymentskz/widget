@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tarlanpaymentskz/widget/issues"
   },
+  "peerDependencies": {
+    "bcryptjs": "2.x"
+  },
   "homepage": "https://github.com/tarlanpaymentskz/widget.git#readme"
 }
