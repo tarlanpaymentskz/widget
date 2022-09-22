@@ -1,6 +1,6 @@
 {
   "name": "@tarlanpayments/widget",
-  "version": "7.0.2",
+  "version": "7.0.3",
   "description": "Payment form widget for merchants.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -20,6 +20,6 @@
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/tarlanpaymentskz/widget/issues"
-  },  
+  },
   "homepage": "https://github.com/tarlanpaymentskz/widget.git#readme"
 }
