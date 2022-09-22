@@ -13,13 +13,13 @@
     "type": "git",
     "url": "git+https://github.com/tarlanpaymentskz/widget.git"
   },
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  },
   "author": "tarlanpayments",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/tarlanpaymentskz/widget/issues"
-  },
-  "peerDependencies": {
-    "bcryptjs": "2.x"
-  },
+  },  
   "homepage": "https://github.com/tarlanpaymentskz/widget.git#readme"
 }
